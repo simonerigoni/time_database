@@ -1,9 +1,0 @@
-﻿CREATE PROCEDURE [dbo].[print]
-	@message NVARCHAR(MAX)
-AS
-	SET NOCOUNT ON
-
-	PRINT CAST(@message AS NTEXT)
-
-	SET NOCOUNT OFF
-
