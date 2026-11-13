@@ -1,5 +1,7 @@
 # Time Database
 
+[![License](https://img.shields.io/github/license/simonerigoni/time_database)](LICENSE.md)
+
 ## Introduction
 
 Time database represents the time dimension: Year, Half, Quarter, Month, Week and Day
